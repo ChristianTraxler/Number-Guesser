@@ -1,0 +1,14 @@
+@media screen and (max-width: 599px) {
+    .instructions {
+        display: grid;
+    }
+
+    .guessing-area {
+        display: grid;
+    }
+
+    .computer-guess {
+        margin-bottom: 10px;
+    }
+}
+
